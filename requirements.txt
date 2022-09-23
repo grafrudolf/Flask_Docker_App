@@ -1,6 +1,7 @@
 gunicorn==20.0.4
 Adyen==4.0.0
 alembic==1.5.4
+dotenv
 APScheduler==3.7.0
 attrs==21.4.0
 Babel==2.9.1
